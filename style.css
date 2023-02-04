@@ -1,0 +1,15 @@
+body{
+background-color: dodgerblue;
+}
+.main>span[score]{
+font-size: medium;
+margin-left: 10px;
+}
+.main>span[timer]{
+font-size: medium;
+float: right;
+margin-right: 20px;
+}
+.main>span[sketch_to_be_drawn]{
+   background-color: gold;
+}
